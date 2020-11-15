@@ -4,5 +4,6 @@ public class GitDemo {
     public void add(){
         System.out.println("hello git");
         System.out.println("hello wold");
+        System.out.println("aaaa");
     }
 }
